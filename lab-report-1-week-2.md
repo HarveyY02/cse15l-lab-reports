@@ -4,21 +4,19 @@
 Go to the Visual Studio Code website https://code.visualstudio.com/, and follow the instructions to download and install it on your computer.
 In this step, I showed that I have successfully downloaded the VSC app.
 
-[Image](<img width="1440" alt="Screen Shot 2022-03-31 at 6 28 39 PM" src="https://user-images.githubusercontent.com/103146938/162255778-9dd4eb08-623c-4d3e-b778-74558d00bca9.png">
-)
+![Image](<img width="1440" alt="Screen Shot 2022-03-31 at 6 28 39 PM" src="https://user-images.githubusercontent.com/103146938/162255778-9dd4eb08-623c-4d3e-b778-74558d00bca9.png">)
 ## 2. Remotely Connecting
 If you are using Windows, go to https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse which allows your computer to connect to others remotely. Then, look up your course account here https://sdacs.ucsd.edu/~icc/index.php. After setting this up, go to VSC, open a new terminal, and enter ssh `cs15lsp22zz@ieng6.ucsd.edu`, where you should substitute "zz" with your personal account letters.
 
 After entering the password (although the characters are not shown), you will see something like:
 
-[Image](<img width="1383" alt="Screen Shot 2022-04-07 at 10 09 48 AM" src="https://user-images.githubusercontent.com/103146938/162259088-39b06b18-c5f2-48b6-83c6-ebda8edaa4eb.png">
-)
+![Image](<img width="1383" alt="Screen Shot 2022-04-07 at 10 09 48 AM" src="https://user-images.githubusercontent.com/103146938/162259088-39b06b18-c5f2-48b6-83c6-ebda8edaa4eb.png">)
 That indicates that you have successfully connected to a remote computer.
 
 ## 3. Trying Some Commands
 There are some commands that you can use to show some specifc things, such as `cd`, `ls`, `pwd`, `mkdir`, and `cp`. After doing `ls -lat`, I had all the things that might appear after `-l`, `-a`, and `-t`.
 
-[Image](<img width="675" alt="Screen Shot 2022-03-31 at 6 39 12 PM" src="https://user-images.githubusercontent.com/103146938/162272598-e2145eb5-9bf9-4351-bfb0-61ae4497561f.png">)
+![Image](<img width="675" alt="Screen Shot 2022-03-31 at 6 39 12 PM" src="https://user-images.githubusercontent.com/103146938/162272598-e2145eb5-9bf9-4351-bfb0-61ae4497561f.png">)
 
 ## 4. Moving Files with `scp`
 1. Enter `exit` to exit the remote control and get back on the client end.
