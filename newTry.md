@@ -25,4 +25,6 @@ or something like
 Blue Bottle
 Stumptown
 Bird Rock
+and this is just some small change
+maybe I'll add James into the list
 ```
