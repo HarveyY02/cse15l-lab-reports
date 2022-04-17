@@ -1,12 +1,12 @@
 # CSE15L-LabReport1
 
 ## 1. Installing VScode
-Go to the Visual Studio Code website https://code.visualstudio.com/, and follow the instructions to download and install it on your computer.
+Go to the Visual Studio Code website [Link](https://code.visualstudio.com/), and follow the instructions to download and install it on your computer.
 In this step, I showed that I have successfully downloaded the VSC app.
 
 ![Image](https://user-images.githubusercontent.com/103146938/162255778-9dd4eb08-623c-4d3e-b778-74558d00bca9.png)
 ## 2. Remotely Connecting
-If you are using Windows, go to https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse which allows your computer to connect to others remotely. Then, look up your course account here https://sdacs.ucsd.edu/~icc/index.php. After setting this up, go to VSC, open a new terminal, and enter ssh `cs15lsp22zz@ieng6.ucsd.edu`, where you should substitute "zz" with your personal account letters.
+If you are using Windows, go to [Link](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse) which allows your computer to connect to others remotely. Then, look up your course account here [Link](https://sdacs.ucsd.edu/~icc/index.php). After setting this up, go to VSC, open a new terminal, and enter ssh `cs15lsp22zz@ieng6.ucsd.edu`, where you should substitute "zz" with your personal account letters.
 
 After entering the password (although the characters are not shown), you will see something like:
 
