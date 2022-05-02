@@ -16,7 +16,7 @@ but this test file I created only had one link, and the while loop is thus infin
 * This test file has only the brackets and not the parentheses, so it originally would print out only empty brackets since.
 
 * Screenshot 3:
-![Screenshot of the code change 3]()<img width="535" alt="Screen Shot 2022-05-02 at 10 38 54" src="https://user-images.githubusercontent.com/103146938/166297009-129cca60-d5c0-4d88-bc15-e4d6c5dc67dc.png">
+![Screenshot of the code change 3](https://user-images.githubusercontent.com/103146938/166297009-129cca60-d5c0-4d88-bc15-e4d6c5dc67dc.png)
 
 * Link to the failure-inducing input:
 [Link to the input 3](https://github.com/HarveyY02/markdown-parser/blob/main/test-file3.md)
