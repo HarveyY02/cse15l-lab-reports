@@ -11,3 +11,7 @@
 
 ## Setup Github Access from ieng6
 * Show where the public key you made is stored on Github and in your user account (screenshot).
+
+![Image2.1](https://user-images.githubusercontent.com/103146938/167704273-41c7f13c-1820-4b8c-9a2a-57aa160911e4.png)
+
+
