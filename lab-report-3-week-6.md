@@ -16,6 +16,7 @@
 
 * Show where the private key you made is stored on your user account (but not its contents) as a screenshot.
 
+![Image2.2](https://user-images.githubusercontent.com/103146938/167919048-26e50361-12df-45c1-b7f1-6e0a15e2b5c0.png)
 
 * Show running git commands to commit and push a change to Github while logged into your ieng6 account.
 
