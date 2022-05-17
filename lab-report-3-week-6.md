@@ -40,4 +40,5 @@
 
 * Show (like in the last step of the first lab) combining scp, ;, and ssh to copy the whole directory and run the tests in one line.
 
-![Image3.3](https://user-images.githubusercontent.com/103146938/168736469-595088be-6257-4d24-b88b-1b916b52c0f3.png)
+![Image3.3](https://user-images.githubusercontent.com/103146938/168739709-2dee69c6-e34b-4922-a314-057f96e44e78.png)
+
