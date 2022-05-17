@@ -23,7 +23,11 @@
 [A CHANGE TO COMMIT FOR TASK2.3]
 [A real CHANGE TO COMMIT FOR TASK2.3] can you see this?
 
+![Image2.3](https://user-images.githubusercontent.com/103146938/168733023-579c5501-ff8c-4b80-8547-a7a9365d9513.png)
+
 * Show a link for the resulting commit.
+
+[Link2.4](https://github.com/HarveyY02/cse15l-lab-reports/commit/b8e119023a756e49cbdb30ecd547dc6f989956ed)
 
 ## Copy whole directories with scp -r
 * Show copying your whole markdown-parse directory to your ieng6 account.
