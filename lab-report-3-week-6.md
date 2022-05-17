@@ -31,5 +31,13 @@
 
 ## Copy whole directories with scp -r
 * Show copying your whole markdown-parse directory to your ieng6 account.
+
+![Image3.1](https://user-images.githubusercontent.com/103146938/168734409-fa5a7fac-dc92-4ed9-994a-0780363f06a7.png)
+
 * Show logging into your ieng6 account after doing this and compiling and running the tests for your repository.
+
+![Image3.2](https://user-images.githubusercontent.com/103146938/168735358-25ce40da-b3cc-4ef4-8b2c-af65321a8d42.png)
+
 * Show (like in the last step of the first lab) combining scp, ;, and ssh to copy the whole directory and run the tests in one line.
+
+![Image3.3](https://user-images.githubusercontent.com/103146938/168736469-595088be-6257-4d24-b88b-1b916b52c0f3.png)
